@@ -9,7 +9,7 @@ More information about the convolutional code can be found [here]( https://it.wi
 * Xilinix Vivado suite
 ### Documents
 - [Report](https://github.com/DavidePrea/Digital-Logic-Design-project-/blob/main/report.pdf)
-- [Specification]((https://github.com/DavidePrea/Digital-Logic-Design-project-/blob/main/Specifica.pdf)
+- [Specification](https://github.com/DavidePrea/Digital-Logic-Design-project-/blob/main/Specifica.pdf)
 
 ## List of Authors:
 
